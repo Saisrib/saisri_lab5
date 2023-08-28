@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <name>Ram</name>
+    <position>Data Analyst</position>
+    <salary>120000</salary>
+  </employee>
+
+  <employee>
+    <name>Prasanna</name>
+    <position>Software Engineer</position>
+    <salary>90000</salary>
+  </employee>
+
+  <employee>
+    <name>Sanvi</name>
+    <position>Team Lead</position>
+    <salary>150000</salary>
+  </employee>
+
+  <employee>
+    <name>Ajay</name>
+    <position>Project Manager</position>
+    <salary>130000</salary>
+  </employee>
+
+  <employee>
+    <name>Rahul</name>
+    <position>Finance Manager</position>
+    <salary>100000</salary>
+  </employee>
+
+  <employee>
+    <name>Sita</name>
+    <position>Sales Manager</position>
+    <salary>75000</salary>
+  </employee>
+
+  <employee>
+    <name>Suhas</name>
+    <position>Marketing Manager</position>
+    <salary>90000</salary>
+  </employee>
+
+  <employee>
+    <name>Priya</name>
+    <position>General Manager</position>
+    <salary>170000</salary>
+  </employee>
+
+  <employee>
+    <name>Sam</name>
+    <position>Data Scientist</position>
+    <salary>110000</salary>
+  </employee>
+
+  <employee>
+    <name>Ravi</name>
+    <position>Assistance Manager</position>
+    <salary>80000</salary>
+  </employee>
+
+</employees>
